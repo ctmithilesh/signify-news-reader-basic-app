@@ -1,0 +1,29 @@
+.header {
+  background-color: coral;
+  text-align: center;
+}
+
+.nav {
+  background-color: coral;
+  display: flex;
+  justify-content: space-around;
+}
+.nav li {
+  list-style-type: none;
+}
+.news-card {
+  background-color: lightblue;
+  width: 750px;
+}
+.news-card img {
+  margin: 2px;
+  padding: 4px;
+}
+.news-card h3 {
+  margin: 2px;
+  padding: 4px;
+}
+.news-card p {
+  margin: 2px;
+  padding: 4px;
+}
